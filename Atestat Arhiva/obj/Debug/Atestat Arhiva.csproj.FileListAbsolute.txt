@@ -1,0 +1,14 @@
+D:\C#\Projects\Atestat Arhiva\Atestat Arhiva\bin\Debug\Atestat Arhiva.exe.config
+D:\C#\Projects\Atestat Arhiva\Atestat Arhiva\bin\Debug\Atestat Arhiva.exe
+D:\C#\Projects\Atestat Arhiva\Atestat Arhiva\bin\Debug\Atestat Arhiva.pdb
+D:\C#\Projects\Atestat Arhiva\Atestat Arhiva\obj\Debug\Atestat Arhiva.csprojResolveAssemblyReference.cache
+D:\C#\Projects\Atestat Arhiva\Atestat Arhiva\obj\Debug\Atestat_Arhiva.Form1.resources
+D:\C#\Projects\Atestat Arhiva\Atestat Arhiva\obj\Debug\Atestat_Arhiva.Properties.Resources.resources
+D:\C#\Projects\Atestat Arhiva\Atestat Arhiva\obj\Debug\Atestat Arhiva.csproj.GenerateResource.Cache
+D:\C#\Projects\Atestat Arhiva\Atestat Arhiva\obj\Debug\Atestat Arhiva.exe
+D:\C#\Projects\Atestat Arhiva\Atestat Arhiva\obj\Debug\Atestat Arhiva.pdb
+D:\C#\Projects\Atestat Arhiva\Atestat Arhiva\obj\Debug\Atestat_Arhiva.FormImageView.resources
+D:\C#\Projects\Atestat Arhiva\Atestat Arhiva\obj\Debug\Atestat_Arhiva.FormCategories.resources
+D:\C#\Projects\Atestat Arhiva\Atestat Arhiva\obj\Debug\Atestat_Arhiva.FormSearch.resources
+D:\C#\Projects\Atestat Arhiva\Atestat Arhiva\bin\Debug\DocX.dll
+D:\C#\Projects\Atestat Arhiva\Atestat Arhiva\obj\Debug\Atestat_Arhiva.FormHelp.resources
